@@ -6,6 +6,7 @@ Uses PNP.PowerShell to extract the contents of WIKI pages from SharePoint.
 
 # .Net Solution
 Is used to load selected information from CSV file and the .html file to create KB Articles.
+Console application, uses LoginUX from D365 SDK samples. 
 
 # To Do
 Translate the content to other languages.
