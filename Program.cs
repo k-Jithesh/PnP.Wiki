@@ -18,7 +18,7 @@ namespace PnP.Wiki
         static void Main(string[] args)
         {
             /*
-            string siteUrl = "https://aucklandtransport.sharepoint.com/sites/KBBK";
+            string siteUrl = "";
             var authManager = new OfficeDevPnP.Core.AuthenticationManager();
             // This method calls a pop up window with the login page and it also prompts 
             // for the multi factor authentication code. 
