@@ -1,4 +1,4 @@
-﻿$SiteURL = "https://aucklandtransport.sharepoint.com/sites/KBBK"
+﻿$SiteURL = "https://aaaaaaaa.sharepoint.com/sites/KBBK"
 $CSVFilePath = "C:\Jithesh\Customer\AT\SPO\Wiki\Files"
 
 
